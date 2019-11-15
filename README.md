@@ -28,3 +28,5 @@ In the Verify user segment you will see the Web SDK integration that provides yo
 In the same tab in the segment of Receive user verification data you can configure a webhook to receive the user verification data to your back-end.
 Only need to click in the Configure new webhook button and you will see a modal, in that modal you need to add the public URL of your back-end and a secret(is optional but you can´t leave this field emptly).
 Make a listener in you back-end and it's done.
+
+Read the official Mati documentation [here](https://docs.getmati.com/#i-api-user-verification).
